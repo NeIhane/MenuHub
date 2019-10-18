@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MenuHub">
+    <output-path>$PROJECT_DIR$/out/artifacts/MenuHub</output-path>
+    <root id="archive" name="MenuHub.jar">
+      <element id="module-output" name="MenuHub" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

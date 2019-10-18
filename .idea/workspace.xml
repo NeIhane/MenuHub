@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MenuHub" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d397b441-b36f-4c66-b990-2ec0095568f4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PH42JxNaANHNCrqY4UKsJz91lw" />
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="menuhub" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/Desktop/RYCCore.jar.src" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fr.nelhane.inventories" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="fr.nelhane.runnables" />
+      <recent name="fr.nelhane.menuhub" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d397b441-b36f-4c66-b990-2ec0095568f4" name="Default Changelist" comment="" />
+      <created>1565517479486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565517479486</updated>
+      <workItem from="1565517482790" duration="1691000" />
+      <workItem from="1565617926347" duration="10400000" />
+      <workItem from="1565647525154" duration="768000" />
+      <workItem from="1565648682523" duration="2878000" />
+      <workItem from="1565651589730" duration="2126000" />
+      <workItem from="1565699407668" duration="3943000" />
+      <workItem from="1565790475297" duration="1816000" />
+      <workItem from="1565818306635" duration="171000" />
+      <workItem from="1565913431116" duration="3023000" />
+      <workItem from="1565916490351" duration="638000" />
+      <workItem from="1565917524684" duration="911000" />
+      <workItem from="1565949353613" duration="9869000" />
+      <workItem from="1565964334217" duration="11565000" />
+      <workItem from="1565987105907" duration="10181000" />
+      <workItem from="1566042490548" duration="3861000" />
+      <workItem from="1566046460885" duration="10278000" />
+      <workItem from="1566064369844" duration="4733000" />
+      <workItem from="1566075807073" duration="8629000" />
+      <workItem from="1566128549740" duration="15888000" />
+      <workItem from="1566164191675" duration="7609000" />
+      <workItem from="1566218216128" duration="1932000" />
+      <workItem from="1566259664515" duration="1847000" />
+      <workItem from="1566297195072" duration="2824000" />
+      <workItem from="1566390264109" duration="8380000" />
+      <workItem from="1566415538199" duration="4175000" />
+      <workItem from="1567075354777" duration="32000" />
+      <workItem from="1567110252570" duration="43000" />
+      <workItem from="1567155591615" duration="122000" />
+      <workItem from="1568066729904" duration="3866000" />
+      <workItem from="1568285155678" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

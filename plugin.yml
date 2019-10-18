@@ -1,0 +1,7 @@
+name: MenuHub
+version: 0.0.1
+author: Nelhane
+main: fr.nelhane.menuhub.MenuHub
+commands:
+  setspawn:
+depend: [RYCCore]
